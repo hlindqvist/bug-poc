@@ -1,0 +1,1 @@
+file:pdnsapi-client#egg=pdnsapi-client

@@ -1,0 +1,3 @@
+pdnsapi-client/
+.venv/
+pdnsapi-spec.yaml
